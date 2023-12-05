@@ -1,3 +1,4 @@
 # DSE_302_assignment_codes
 
-These are the codes for the semester project for the course DSE 302 at IISER Bhopal, semester- 6th, academic year 2021-2022. The aim of this project was to predict the closing price of stocks.
+Developed various machine learning algorithms for stock price prediction employing SVR, KNN, and Random Forest algorithms.
+Applied advanced feature engineering, including moving averages, to enhance predictive accuracy. [click](https://github.com/beginner46/DSE_302_assignment_codes/blob/main/Shashank_singh_ml_codes.ipynb) Further worked on the price prediction LSTM model from my [previous work](https://github.com/beginner46/Use-of-python-in-finance/blob/main/DSE_19289_Shashank_Price_prediction.ipynb) in the course DSE-309 improving on the model and feature engineering components. 
